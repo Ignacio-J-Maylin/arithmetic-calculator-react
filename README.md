@@ -30,8 +30,8 @@ Ensure you have the following installed on your local environment:
 
 1. Clone the repository:
    ```bash
-   git clone <frontend-repo-url>
-   cd <frontend-repo-directory>
+   git clone https://github.com/Ignacio-J-Maylin/arithmetic-calculator-react.git
+   cd arithmetic-calculator-react
    ```
 
 2. Install dependencies:
